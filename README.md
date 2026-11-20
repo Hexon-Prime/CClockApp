@@ -14,3 +14,9 @@ A command-line clock utility written in C, currently in **public beta** while un
 ## Roadmap / Upcoming
 - Refine input handling and edge cases during beta testing.
 - Add additional clock utilities and usability improvements before v1.0.
+
+## UNDER DEVELOPMENT
+- Overview still needs more features
+- Timer needs stability. Add more features
+- Stopwatch need more buttons
+- Setting need more options
